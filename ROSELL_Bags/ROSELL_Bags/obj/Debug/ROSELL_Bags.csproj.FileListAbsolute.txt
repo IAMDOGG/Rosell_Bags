@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\bin\Debug\ROSELL_Bags.exe.config
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\bin\Debug\ROSELL_Bags.exe
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\bin\Debug\ROSELL_Bags.pdb
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\obj\Debug\ROSELL_Bags.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\obj\Debug\ROSELL_Bags.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\obj\Debug\ROSELL_Bags.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\obj\Debug\ROSELL_Bags.exe
+C:\Users\johnr\source\repos\ROSELL_Bags\ROSELL_Bags\obj\Debug\ROSELL_Bags.pdb
